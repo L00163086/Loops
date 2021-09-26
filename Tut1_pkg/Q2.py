@@ -9,10 +9,6 @@ right_icon = ">"
 
 print(top_icon * 48)
 print(left_icon + "\t" * 12 + right_icon)
-top_icon = "^"
-bottom_icon = "v"
-left_icon = "<"
-right_icon = ">"
 
 
 print(top_icon * 48)

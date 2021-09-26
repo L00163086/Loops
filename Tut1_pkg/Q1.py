@@ -10,7 +10,7 @@ print('Hello World')
 a = 5
 b = 12.3456789
 c = a+b
-# d = "A number "+b
+# d = "A number "+b # ONLY CONCATENATE STR ( NOT FLOAT) TO STR
 e = a+ \
   b+ \
   c
@@ -19,6 +19,6 @@ g = a/f
 print(a)
 print(b)
 print(c)
-print(d)
+#print(d)
 print(e)
 print(f)
